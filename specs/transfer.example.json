@@ -1,0 +1,22 @@
+{
+  "transfer_id": "tr_demo_01",
+  "sender_pet_id": "pet_demo_001",
+  "recipient_pet_id": "pet_demo_002",
+  "item_instance_id": "item_ball_001",
+  "item_version": 3,
+  "status": "RESERVED",
+  "expires_at": "2026-11-04T07:10:00Z",
+  "allowed_transitions": {
+    "CREATED": [
+      "RESERVED"
+    ],
+    "RESERVED": [
+      "COMMITTED",
+      "CANCELLED",
+      "EXPIRED"
+    ],
+    "COMMITTED": [],
+    "CANCELLED": [],
+    "EXPIRED": []
+  }
+}

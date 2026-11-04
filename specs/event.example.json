@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "event_id": "evt_demo_0042",
+  "pet_id": "pet_demo_001",
+  "writer_epoch": 1,
+  "seq": 42,
+  "command_id": "cmd_demo_feed_01",
+  "type": "food_consumed",
+  "logical_time_s": 3600,
+  "occurred_at": "2026-11-04T07:00:00Z",
+  "config_version": "design-0.1",
+  "previous_event_hash": "placeholder_not_valid_hash",
+  "payload": {
+    "food_type": "basic_meal",
+    "portion": 0.2,
+    "reason_code": "USER_FEED",
+    "reward_stars": 5
+  },
+  "note": "Hash and signature omitted from this non-production example."
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "config_version": "design-0.1",
+  "status": "uncalibrated_design_example",
+  "time": {
+    "physiology_step_s": 60,
+    "self_care_after_s": 43200,
+    "boarding_after_s": 86400
+  },
+  "stages": [
+    {
+      "id": "newborn",
+      "start_s": 0
+    },
+    {
+      "id": "infant",
+      "start_s": 259200
+    },
+    {
+      "id": "juvenile",
+      "start_s": 1209600
+    },
+    {
+      "id": "maturing",
+      "start_s": 3024000
+    },
+    {
+      "id": "adult",
+      "start_s": 3974400
+    }
+  ],
+  "mortality": {
+    "mode": "shadow",
+    "enabled_supported": true,
+    "annual_total_budget_candidate": 0.002,
+    "annual_sudden_probability_candidate": 0.0002,
+    "sudden_hazard_per_hour": 2.2833333637793006e-08,
+    "pause_in_boarding": true,
+    "critical_min_window_s": 86400
+  },
+  "behavior": {
+    "algorithm": "contextual_softmax",
+    "temperature": 0.7,
+    "fallback": "idle",
+    "rng_stream": "behavior"
+  },
+  "rng": {
+    "algorithm": "PCG32",
+    "version": 1,
+    "streams": [
+      "behavior",
+      "growth",
+      "disease",
+      "mortality"
+    ]
+  },
+  "economy": {
+    "daily_typical_stars_candidate": 50,
+    "daily_cap_candidate": 80,
+    "nest_price_candidate": 180,
+    "free_basic_treatment": true,
+    "free_replacement_egg": true
+  },
+  "species": {
+    "dog": {
+      "growth_multiplier": 1.0,
+      "allowed_play": [
+        "chase",
+        "fetch",
+        "observe"
+      ],
+      "metabolism_multiplier": 1.0
+    },
+    "cat": {
+      "growth_multiplier": 1.0,
+      "allowed_play": [
+        "stalk",
+        "pounce",
+        "bat",
+        "observe"
+      ],
+      "metabolism_multiplier": 0.95
+    },
+    "turtle": {
+      "growth_multiplier": 0.9,
+      "allowed_play": [
+        "approach",
+        "nudge",
+        "forage",
+        "observe"
+      ],
+      "metabolism_multiplier": 0.7
+    }
+  },
+  "notice": "Illustrative subset, not complete runtime configuration. Disease rates and physiology constants require calibration."
+}

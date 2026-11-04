@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pet_id": "pet_demo_001",
+  "species": "dog",
+  "name": "小y",
+  "writer_epoch": 1,
+  "device_seq": 42,
+  "config_version": "design-0.1",
+  "core_version": "unimplemented",
+  "born_at": "2026-11-04T06:00:00Z",
+  "bio_age_s": 3600,
+  "lifecycle": "alive",
+  "physiology": {
+    "satiety": 0.8,
+    "hydration": 0.9,
+    "energy": 0.7,
+    "sleep_debt": 0.1,
+    "hygiene": 0.9,
+    "health": 1.0
+  },
+  "growth": {
+    "development": 0.01,
+    "mass_ratio": 0.12,
+    "coordination": 0.1,
+    "coat_stage": 0
+  },
+  "psychology": {
+    "valence": 0.6,
+    "arousal": 0.4,
+    "security": 0.5,
+    "attachment": 0.1
+  },
+  "disease": null,
+  "current_action": "observe",
+  "boarding": false,
+  "rng": {
+    "algorithm": "PCG32",
+    "state_encoding": "illustrative_hex",
+    "streams": {
+      "behavior": {
+        "state": "0000000000000001",
+        "increment": "0x1",
+        "draw_count": 0
+      },
+      "growth": {
+        "state": "0000000000000001",
+        "increment": "0x3",
+        "draw_count": 0
+      },
+      "disease": {
+        "state": "0000000000000001",
+        "increment": "0x5",
+        "draw_count": 0
+      },
+      "mortality": {
+        "state": "0000000000000001",
+        "increment": "0x7",
+        "draw_count": 0
+      }
+    }
+  },
+  "note": "PRNG values are structural placeholders, not seed initialization or golden test vectors."
+}

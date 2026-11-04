@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "type": "PLAY_READY",
+  "message_id": "msg_demo_01",
+  "session_id": "session_demo_01",
+  "seq": 3,
+  "ack": 2,
+  "payload": {
+    "encounter_id": "enc_demo_01",
+    "action_id": "greeting_gentle",
+    "shared_seed": 12345,
+    "start_after_ms": 500,
+    "pet_public": {
+      "species": "dog",
+      "display_name": "小y",
+      "coat": "cream"
+    }
+  }
+}
