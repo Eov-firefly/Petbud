@@ -11,7 +11,7 @@ if(p.ill)choices=[['rest',5],['observe',2],['sleep',4]];
 else if(p.energy<20)choices=[['sleep',7],['stretch',2],['observe',1]];
 else if(context==='call')choices=[['come',3+5*p.traits.social],['tilt',3],['stretch',2],['chirp',1]];
 else if(context==='ball')choices=[['chase',p.species==='turtle'?0:3+p.traits.energy*4+p.habits.ball*.03],['observe',2],['pounce',p.species==='cat'?4:0],['nudge',p.species==='turtle'?7:0]];
-else choices=[['wander',2+p.traits.curiosity*3],['sit',3],['stretch',1],['groom',p.species==='cat'?3:1],['observe',2],['sleep',p.energy<50?3:0]];
+else choices=[['wander',2+p.traits.curiosity*3],['sit',3],['stretch',1],['groom',p.species==='cat'?3:1],['observe',2],['sleep',p.energy<50?3:0],['look',2+p.traits.curiosity*2],['sniff',2],['wave',p.traits.social>.6?1:0],['jump',p.species==='turtle'?0:p.traits.energy]];
 choices=choices.map(([a,w])=>[a,a===p.action?w*.35:w]);let n=random(p)*choices.reduce((a,[,w])=>a+w,0);for(const [a,w]of choices){n-=w;if(n<=0)return a;}return choices.at(-1)[0];}
 function die(p,reason){p.alive=false;p.action='memorial';p.death={age:p.age,reason};remember(p,'death',reason);}
 export function advance(p,hours,{unattended=false}={}){if(!Number.isFinite(hours)||hours<0||hours>24*366)throw Error('Invalid elapsed time');if(!p.alive)return;const oldStage=stage(p);let left=hours;let elapsed=0;

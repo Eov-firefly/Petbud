@@ -1,0 +1,20 @@
+{
+  "id": "lihua-cat",
+  "displayName": "Lihua Cat",
+  "description": "A lifelike brown tabby kitten with large olive eyes, a pink nose, cream muzzle, and dark striped fur.",
+  "ownerName": "ooooo",
+  "ownerHandle": "ooooo",
+  "uploadedAt": "2026-09-19T09:44:24.138Z",
+  "spriteVersionNumber": 2,
+  "spritesheetUrl": "https://codex-pets.net/assets/pets/v/1789811064138/lihua-cat/spritesheet.webp",
+  "posterUrl": "https://codex-pets.net/assets/pets/v/1789811064138/lihua-cat/poster.webp",
+  "validationReport": {
+    "manifestId": "lihua-cat",
+    "atlasSize": "1536x2288",
+    "cellSize": "192x208",
+    "statesDetected": 11,
+    "manifestBytes": 265,
+    "spritesheetBytes": 2288042,
+    "spriteVersionNumber": 2
+  }
+}

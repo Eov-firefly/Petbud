@@ -1,0 +1,20 @@
+{
+  "id": "monty-boy",
+  "displayName": "Monty",
+  "description": "A cute cartoon Portuguese water dog with a curly black coat, a bright white muzzle and chest bib, floppy ears, warm dark eyes, and tiny white toe tips.",
+  "ownerName": "xor",
+  "ownerHandle": "xor",
+  "uploadedAt": "2026-08-17T05:33:42.999Z",
+  "spriteVersionNumber": 2,
+  "spritesheetUrl": "https://codex-pets.net/assets/pets/v/1786944822999/monty-boy/spritesheet.webp",
+  "posterUrl": "https://codex-pets.net/assets/pets/v/1786944822999/monty-boy/poster.webp",
+  "validationReport": {
+    "manifestId": "monty-boy",
+    "atlasSize": "1536x2288",
+    "cellSize": "192x208",
+    "statesDetected": 11,
+    "manifestBytes": 311,
+    "spritesheetBytes": 2126262,
+    "spriteVersionNumber": 2
+  }
+}

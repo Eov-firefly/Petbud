@@ -1,0 +1,16 @@
+/** Recorded animal voices + original procedural foley; no remote calls. */
+export class PetAudio{
+ constructor(){this.enabled=true;this.context=null;this.buffers={};this.last=0;this.count=0;this.lastCue='';this.error='';this.nodes=new Set();}
+ async unlock(){if(!this.enabled)return false;try{if(!this.context){this.context=new (window.AudioContext||window.webkitAudioContext)();this.loading=Promise.all(['dog','cat','dogHappy'].map(async k=>{try{const r=await fetch(`assets/audio/${k==='dogHappy'?'dog-happy':k+'-'+(k==='dog'?'bark':'meow')}.ogg`);if(!r.ok)throw Error('HTTP '+r.status);this.buffers[k]=await this.context.decodeAudioData(await r.arrayBuffer());}catch(e){this.error='叫声素材加载失败：'+e.message;}}));}await this.context.resume();return true;}catch(e){this.error='声音暂不可用：'+e.message;return false;}}
+ mute(){this.enabled=false;for(const n of this.nodes){try{n.stop();}catch{}}this.nodes.clear();}
+ async play(kind,species='dog',{force=false}={}){if(!this.enabled)return;const now=performance.now();if(!force&&now-this.last<900)return;this.last=now;if(!await this.unlock())return;await this.loading;if(!this.enabled)return;
+ const ctx=this.context,t=ctx.currentTime+.015;this.lastCue=`${species}:${kind}`;let actual=false;
+ const vocal=['call','happy','meet','ball','pet','refuse'].includes(kind)&&species!=='turtle';
+ if(vocal&&this.buffers[species]){const happy=['happy','meet','ball'].includes(kind),times=species==='dog'&&happy&&kind!=='meet'?2:1;for(let i=0;i<times;i++){const source=ctx.createBufferSource(),gain=ctx.createGain();source.buffer=species==='dog'&&kind==='meet'&&this.buffers.dogHappy?this.buffers.dogHappy:this.buffers[species];source.playbackRate.value=kind==='pet'?.94:kind==='refuse'?.9:happy?1.08:1;gain.gain.value=kind==='pet'?.18:species==='dog'?.25:.24;source.connect(gain).connect(ctx.destination);this.track(source);source.start(t+i*.32);}actual=true;}
+ if(kind==='sleep'||(species==='cat'&&kind==='pet')){this.purr(t,species==='cat'?.9:.45);actual=true;}
+ if(['feed','clean','walk','sun','treat'].includes(kind)||species==='turtle'){this.foley(t,kind);actual=true;}
+ if(actual){this.count++;window.dispatchEvent(new CustomEvent('petbud:audio',{detail:{cue:this.lastCue,count:this.count}}));}}
+ track(n){this.nodes.add(n);n.onended=()=>this.nodes.delete(n);}
+ foley(t,kind){const ctx=this.context;for(let i=0;i<(kind==='feed'?5:kind==='walk'?4:2);i++){const length=.07,buffer=ctx.createBuffer(1,ctx.sampleRate*length,ctx.sampleRate),data=buffer.getChannelData(0);for(let j=0;j<data.length;j++)data[j]=(Math.random()*2-1)*Math.exp(-j/data.length*7);const n=ctx.createBufferSource(),filter=ctx.createBiquadFilter(),g=ctx.createGain();n.buffer=buffer;filter.type='lowpass';filter.frequency.value=kind==='feed'?1400:kind==='clean'?2200:600;g.gain.value=.06;n.connect(filter).connect(g).connect(ctx.destination);this.track(n);n.start(t+i*.17);}}
+ purr(t,duration){const ctx=this.context,n=ctx.createOscillator(),g=ctx.createGain();n.type='sawtooth';n.frequency.value=27;const f=ctx.createBiquadFilter();f.type='lowpass';f.frequency.value=100;g.gain.setValueAtTime(.0001,t);g.gain.exponentialRampToValueAtTime(.045,t+.1);g.gain.exponentialRampToValueAtTime(.0001,t+duration);n.connect(f).connect(g).connect(ctx.destination);this.track(n);n.start(t);n.stop(t+duration);}
+}

@@ -1,0 +1,20 @@
+{
+  "id": "torti",
+  "displayName": "Torti",
+  "description": "A sarcastic little 3D-toy turtle who finds stable execution boring and becomes delighted by errors and chaos.",
+  "ownerName": "aropan",
+  "ownerHandle": "aropan",
+  "uploadedAt": "2026-08-11T00:18:10.117Z",
+  "spriteVersionNumber": 2,
+  "spritesheetUrl": "https://codex-pets.net/assets/pets/v/1786407490117/torti/spritesheet.webp",
+  "posterUrl": "https://codex-pets.net/assets/pets/v/1786407490117/torti/poster.webp",
+  "validationReport": {
+    "manifestId": "torti",
+    "atlasSize": "1536x2288",
+    "cellSize": "192x208",
+    "statesDetected": 11,
+    "manifestBytes": 265,
+    "spritesheetBytes": 2321394,
+    "spriteVersionNumber": 2
+  }
+}
