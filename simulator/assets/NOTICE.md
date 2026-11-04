@@ -30,3 +30,7 @@ HachimoDock素材未复制，其当前许可证对独立产品复用另有书面
 来源标明为AI生成幼猫风格音效，CC0 1.0，非真实小猫现场录音。本项目做了去除开头静音、截短、淡入淡出与转OGG；播放保持原速，不通过升调伪装幼猫。许可：https://creativecommons.org/publicdomain/zero/1.0/ 。原文件下载地址分别为 `https://sfxmint.com/dl/animal-cat-meow-50.mp3` 和 `https://sfxmint.com/dl/animal-cat-meow-71.mp3`。
 
 再次核查HachimoDock许可证：第3条对独立于该项目的软件/硬件产品复用另有书面授权要求，不因非商业原型而自动解除。因此Alpha 0.3仍未复制其默认小狗素材，只参考其连续动作表现。
+
+## Alpha 0.4 非商业连续影像参考演示
+
+按用户明确指定，新增HachimoDock默认西高地9段原始MP4和一张原缩略图，版权Yizheng Wang / HachimoDock。完整许可证及使用边界见[影像包说明](cinema/README.md)，逐文件出处见[资源清单](cinema/manifest.json)。文件未改写；浏览器运行时做过渡及背景处理。这些素材不转授本仓库整体许可，也不表示权利人授权独立商业产品或背书。此前未使用该素材的说明仅对应早期版本。

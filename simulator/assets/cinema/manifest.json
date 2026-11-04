@@ -1,0 +1,109 @@
+{
+  "format": "petbud-video-v1",
+  "version": 1,
+  "species": "dog",
+  "usage": "noncommercial-reference-demo",
+  "attribution": "Yizheng Wang / HachimoDock; original files preserved",
+  "license": "HACHIMODOCK-LICENSE.md",
+  "clips": {
+    "idle": {
+      "path": "dog/idle.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/idle.daydreaming.mp4",
+      "loop": true
+    },
+    "eat": {
+      "path": "dog/eat.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/idle.eating.mp4",
+      "loop": false
+    },
+    "play": {
+      "path": "dog/play.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/idle.playing.mp4",
+      "loop": false
+    },
+    "walk": {
+      "path": "dog/walk.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/idle.wandering.mp4",
+      "loop": true
+    },
+    "call": {
+      "path": "dog/call.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/welcome.mp4",
+      "loop": false
+    },
+    "touch": {
+      "path": "dog/touch.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/touch.lick.mp4",
+      "loop": false
+    },
+    "look": {
+      "path": "dog/look.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/touch.what.mp4",
+      "loop": false
+    },
+    "happy": {
+      "path": "dog/happy.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 242,
+      "duration": 10.083333,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/done.mp4",
+      "loop": false
+    },
+    "rest": {
+      "path": "dog/rest.mp4",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "fps": "24/1",
+      "frames": 363,
+      "duration": 15.125,
+      "source": "https://github.com/YizhengWw/HachimoDock/blob/main/pc/public/terrier-clips/waiting_user.mp4",
+      "loop": false
+    }
+  }
+}
