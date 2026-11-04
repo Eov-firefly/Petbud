@@ -19,3 +19,14 @@ HachimoDock素材未复制，其当前许可证对独立产品复用另有书面
 - `audio/cat-meow.ogg`：Maullido de gata hembra joven，2012，CC0 1.0。来源：https://commons.wikimedia.org/wiki/File:Maullido_de_gata_hembra_joven.ogg 。许可：https://creativecommons.org/publicdomain/zero/1.0/ 。原OGG文件未修改。
 
 呼噜、进食、脚步、清理等短音为本项目程序合成。乌龟采用低音量动作反馈，不播放猫狗叫声，也不将其描述为真实龟叫录音。社区图集本身不含音轨，叫声由Petbud行为事件独立关联，非逐帧口型同步。
+
+## Alpha 0.3 幼猫音效替换
+
+当前代码不再加载 `cat-meow.ogg` 的成年猫录音。新增：
+
+- `audio/kitten-call.ogg`：SFXMint，Kitten High-Pitched Cat Meowing 50，https://sfxmint.com/sounds/animal-cat-meow-50 。
+- `audio/kitten-soft.ogg`：SFXMint，Kitten High-Pitched Cat Meowing 71，https://sfxmint.com/sounds/animal-cat-meow-71 。
+
+来源标明为AI生成幼猫风格音效，CC0 1.0，非真实小猫现场录音。本项目做了去除开头静音、截短、淡入淡出与转OGG；播放保持原速，不通过升调伪装幼猫。许可：https://creativecommons.org/publicdomain/zero/1.0/ 。原文件下载地址分别为 `https://sfxmint.com/dl/animal-cat-meow-50.mp3` 和 `https://sfxmint.com/dl/animal-cat-meow-71.mp3`。
+
+再次核查HachimoDock许可证：第3条对独立于该项目的软件/硬件产品复用另有书面授权要求，不因非商业原型而自动解除。因此Alpha 0.3仍未复制其默认小狗素材，只参考其连续动作表现。
