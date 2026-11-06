@@ -22,3 +22,9 @@ export class AnimationClock{
  constructor(){this.action='';this.elapsed=0;this.previous=null;this.transition=1;}
  step(action,dt){if(action!==this.action){this.previous={action:this.action,elapsed:this.elapsed};this.action=action;this.elapsed=0;this.transition=0;}else this.elapsed+=Math.max(0,dt);this.transition=Math.min(1,this.transition+Math.max(0,dt)/.14);return this;}
 }
+/** Footfall events follow travelled distance, not a free-running sound timer. */
+export class FootfallClock{
+ constructor(){this.previous=null;this.key='';this.total=0;}
+ update(distance,stride,species,moving){const key=`${species}/${stride}`;if(!moving||!Number.isFinite(distance)||!Number.isFinite(stride)||stride<=0){this.previous=distance;this.key=key;return[];}if(this.previous===null||this.key!==key||distance<this.previous){this.previous=distance;this.key=key;return[];}
+ const beats=species==='turtle'?4:2,a=Math.floor(this.previous/stride*beats),b=Math.floor(distance/stride*beats);this.previous=distance;const count=Math.min(4,Math.max(0,b-a));this.total+=count;return Array.from({length:count},(_,i)=>({foot:(a+i+1)%beats,cyclePhase:((a+i+1)%beats)/beats}));}
+}

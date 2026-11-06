@@ -1,0 +1,22 @@
+{
+  "walk_left": {
+    "stride_px": 50,
+    "start": 0.5,
+    "end": 1.5
+  },
+  "walk_right": {
+    "stride_px": 50,
+    "start": 0.5,
+    "end": 1.5
+  },
+  "run_left": {
+    "stride_px": 72,
+    "start": 0.5,
+    "end": 1.5
+  },
+  "run_right": {
+    "stride_px": 72,
+    "start": 0.5,
+    "end": 1.5
+  }
+}

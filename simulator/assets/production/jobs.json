@@ -1,0 +1,2771 @@
+{
+  "version": 1,
+  "status": "awaiting_video_generation_connection",
+  "generated_new_videos": 0,
+  "total_jobs": 120,
+  "first_batch_jobs": 17,
+  "jobs": [
+    {
+      "id": "dog/baby/idle",
+      "species": "dog",
+      "stage": "baby",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/eat",
+      "species": "dog",
+      "stage": "baby",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/play",
+      "species": "dog",
+      "stage": "baby",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/call",
+      "species": "dog",
+      "stage": "baby",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/touch",
+      "species": "dog",
+      "stage": "baby",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/look",
+      "species": "dog",
+      "stage": "baby",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/happy",
+      "species": "dog",
+      "stage": "baby",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/sleep_enter",
+      "species": "dog",
+      "stage": "baby",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/sleep_loop",
+      "species": "dog",
+      "stage": "baby",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/sleep_exit",
+      "species": "dog",
+      "stage": "baby",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/walk_left",
+      "species": "dog",
+      "stage": "baby",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/walk_right",
+      "species": "dog",
+      "stage": "baby",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/run_left",
+      "species": "dog",
+      "stage": "baby",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/baby/run_right",
+      "species": "dog",
+      "stage": "baby",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "dog/juvenile/idle",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/eat",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/play",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/call",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/touch",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/look",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/happy",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/sleep_enter",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/sleep_loop",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/sleep_exit",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/walk_left",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/walk_right",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/run_left",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/juvenile/run_right",
+      "species": "dog",
+      "stage": "juvenile",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adolescent proportions and coat/shell development, recognizably the same individual. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "dog/adult/idle",
+      "species": "dog",
+      "stage": "adult",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/eat",
+      "species": "dog",
+      "stage": "adult",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/play",
+      "species": "dog",
+      "stage": "adult",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/call",
+      "species": "dog",
+      "stage": "adult",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/touch",
+      "species": "dog",
+      "stage": "adult",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/look",
+      "species": "dog",
+      "stage": "adult",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/happy",
+      "species": "dog",
+      "stage": "adult",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/sleep_enter",
+      "species": "dog",
+      "stage": "adult",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/sleep_loop",
+      "species": "dog",
+      "stage": "adult",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/sleep_exit",
+      "species": "dog",
+      "stage": "adult",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/walk_left",
+      "species": "dog",
+      "stage": "adult",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/walk_right",
+      "species": "dog",
+      "stage": "adult",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/run_left",
+      "species": "dog",
+      "stage": "adult",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "dog/adult/run_right",
+      "species": "dog",
+      "stage": "adult",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "White West Highland terrier, same individual, dark eyes, black nose, white shaggy coat. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 0,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/baby/idle",
+      "species": "cat",
+      "stage": "baby",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/eat",
+      "species": "cat",
+      "stage": "baby",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/play",
+      "species": "cat",
+      "stage": "baby",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/call",
+      "species": "cat",
+      "stage": "baby",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/touch",
+      "species": "cat",
+      "stage": "baby",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/look",
+      "species": "cat",
+      "stage": "baby",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/happy",
+      "species": "cat",
+      "stage": "baby",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/sleep_enter",
+      "species": "cat",
+      "stage": "baby",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/sleep_loop",
+      "species": "cat",
+      "stage": "baby",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/sleep_exit",
+      "species": "cat",
+      "stage": "baby",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/walk_left",
+      "species": "cat",
+      "stage": "baby",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/walk_right",
+      "species": "cat",
+      "stage": "baby",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/run_left",
+      "species": "cat",
+      "stage": "baby",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/baby/run_right",
+      "species": "cat",
+      "stage": "baby",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "cat/juvenile/idle",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/eat",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/play",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/call",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/touch",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/look",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/happy",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/sleep_enter",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/sleep_loop",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/sleep_exit",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/walk_left",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/walk_right",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/run_left",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/juvenile/run_right",
+      "species": "cat",
+      "stage": "juvenile",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adolescent proportions and coat/shell development, recognizably the same individual. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "cat/adult/idle",
+      "species": "cat",
+      "stage": "adult",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/eat",
+      "species": "cat",
+      "stage": "adult",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/play",
+      "species": "cat",
+      "stage": "adult",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/call",
+      "species": "cat",
+      "stage": "adult",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/touch",
+      "species": "cat",
+      "stage": "adult",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/look",
+      "species": "cat",
+      "stage": "adult",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/happy",
+      "species": "cat",
+      "stage": "adult",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/sleep_enter",
+      "species": "cat",
+      "stage": "adult",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/sleep_loop",
+      "species": "cat",
+      "stage": "adult",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/sleep_exit",
+      "species": "cat",
+      "stage": "adult",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/walk_left",
+      "species": "cat",
+      "stage": "adult",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/walk_right",
+      "species": "cat",
+      "stage": "adult",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/run_left",
+      "species": "cat",
+      "stage": "adult",
+      "action": "run_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Left-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "cat/adult/run_right",
+      "species": "cat",
+      "stage": "adult",
+      "action": "run_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "Brown tabby kitten/cat, same olive eyes and pink nose, cream muzzle, stable dark stripe pattern. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Right-facing in-place trot/run, fixed root and physically coherent feet contact. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 1,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/baby/idle",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/eat",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/play",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/call",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/touch",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/look",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/happy",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/sleep_enter",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/sleep_loop",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/sleep_exit",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/walk_left",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/baby/walk_right",
+      "species": "turtle",
+      "stage": "baby",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 2,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Clearly juvenile anatomy, larger head-to-body ratio and short limbs. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "turtle/juvenile/idle",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/eat",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/play",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/call",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/touch",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/look",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/happy",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/sleep_enter",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/sleep_loop",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/sleep_exit",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/walk_left",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/juvenile/walk_right",
+      "species": "turtle",
+      "stage": "juvenile",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adolescent proportions and coat/shell development, recognizably the same individual. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "id": "turtle/adult/idle",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "idle",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Calm breathing, occasional blink and ear/head micro-motion. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/eat",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "eat",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Lower to species-appropriate food, eat and swallow naturally, return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/play",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "play",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Observe then interact with a small toy using species-appropriate behavior. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/call",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "call",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Hear an off-camera owner, turn attention and approach with natural enthusiasm. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/touch",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "touch",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. React gently to an off-camera touch; no human hand visible. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/look",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "look",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Look slowly left, forward, right and return to neutral. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/happy",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "happy",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. A restrained happy response appropriate to this species. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/sleep_enter",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "sleep_enter",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Complete transition from awake posture to lying/resting, close eyes naturally. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/sleep_loop",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "sleep_loop",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Remain truly asleep, eyes closed, subtle breathing only. Seamless loop. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/sleep_exit",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "sleep_exit",
+      "status": "not_generated",
+      "priority": 3,
+      "duration_seconds": 6,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Wake slowly, open eyes and return to the neutral posture. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/walk_left",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "walk_left",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Left-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "id": "turtle/adult/walk_right",
+      "species": "turtle",
+      "stage": "adult",
+      "action": "walk_right",
+      "status": "not_generated",
+      "priority": 1,
+      "duration_seconds": 4,
+      "fps": 24,
+      "prompt": "One small tortoise, consistent olive shell plate pattern, four short legs and natural small head. No human hands, no mammal fur. Adult anatomy, same stable identity and markings; do not merely scale up a juvenile. Right-facing in-place walk/crawl, fixed root and foot-ground contact, exactly one repeatable full gait cycle. Locked camera, fixed exposure and lighting, full body stays in frame with 10 percent safety margins. Uniform pure black background, no text, no cuts, no zoom, no extra limbs, no identity changes. Keep the root and foot baseline fixed for gait clips. Preserve neutral start/end poses for transitions.",
+      "review_required": [
+        "identity",
+        "anatomy",
+        "contact",
+        "loop_boundary",
+        "no_camera_drift",
+        "stage_difference"
+      ],
+      "reference_cell": {
+        "row": 2,
+        "column": 2
+      }
+    }
+  ],
+  "reference_board": "age-reference-board.png",
+  "reference_board_status": "static_design_guide_only"
+}

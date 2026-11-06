@@ -34,3 +34,7 @@ HachimoDock素材未复制，其当前许可证对独立产品复用另有书面
 ## Alpha 0.4 非商业连续影像参考演示
 
 按用户明确指定，新增HachimoDock默认西高地9段原始MP4和一张原缩略图，版权Yizheng Wang / HachimoDock。完整许可证及使用边界见[影像包说明](cinema/README.md)，逐文件出处见[资源清单](cinema/manifest.json)。文件未改写；浏览器运行时做过渡及背景处理。这些素材不转授本仓库整体许可，也不表示权利人授权独立商业产品或背书。此前未使用该素材的说明仅对应早期版本。
+
+## Alpha 0.6 本地三维
+
+`native-pets.js`中的猫、龟及三维狗是本项目程序生成的网格、纹理和骨架，不包含第三方角色模型。渲染库Three.js 0.170.0采用MIT许可，完整声明随附于`vendor/THREE-LICENSE.txt`。通过本地录制导出的三维视频与HachimoDock参考视频是不同来源；后者原有许可证继续适用。

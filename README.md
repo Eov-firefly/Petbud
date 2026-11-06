@@ -10,7 +10,11 @@ Petbud 是以屏幕为主体、可随身携带的电子宠物：从魔法蛋出�
 
 ## 先体验原型
 
-已提供[浏览器模拟器 Alpha 0.4](simulator/README.md)：选蛋、概率动作、喂养、扔球、加速成长、模拟社交及本地存档。运行 `cd simulator` 后执行 `python3 -m http.server 8080 --bind 127.0.0.1`，打开 http://localhost:8080。无模型密钥或硬件依赖；功能边界见模拟器说明。
+已提供[浏览器模拟器 Alpha 0.6](simulator/README.md)：选蛋、概率动作、喂养、扔球、加速成长、模拟社交及本地存档。运行 `cd simulator` 后执行 `python3 -m http.server 8080 --bind 127.0.0.1`，打开 http://localhost:8080。猫、龟内置本地三维角色，支持分龄、睡眠和距离驱动步态；无需Runway、模型密钥或硬件。功能边界见模拟器说明。
+
+## 素材制作当前状态
+
+[猫、龟、睡眠与成长素材制作](simulator/assets/production/README.md)：播放与导入机制已接入，静态分龄参考已制作，新增连续视频尚未生成，不能视为动画已交付。
 
 ## 阅读顺序
 
